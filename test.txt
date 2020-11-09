@@ -1,0 +1,16 @@
+import java.fx;
+
+b= -10;
+// a = 'f' авіаі руйк
+int a = 0xFF;
+int b = 80000;
+c = 'f';
+d = "DAS"
+int b = 25.22.232;
+
+double d = 1.23;
+while(true)
+{
+i++;
+a = i++;
+}
